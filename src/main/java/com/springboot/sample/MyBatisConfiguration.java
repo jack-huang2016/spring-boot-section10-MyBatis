@@ -11,6 +11,7 @@ public class MyBatisConfiguration {
 	/**
 	 * Github上有位开发者写了一个分页插件PageHelper
 	 * Github项目地址： https://github.com/pagehelper/Mybatis-PageHelper
+	 * 更多参数使用方法，详见PageHelper说明文档（上面的Github地址）
 	 * 
 	 * 注册MyBatis分页插件PageHelper
 	 * @return
